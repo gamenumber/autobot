@@ -177,3 +177,7 @@ async def on_message(message):
 
 # 봇을 실행합니다.
 client.run(TOKEN)
+
+# nano ~/.bashrc
+# export DISCORD_TOKEN="여기에_토큰_값_입력"
+# source ~/.bashrc
